@@ -1,0 +1,3 @@
+- 1.get the slack channel chat history
+- 2.choose the useful and right answer for the question in channel
+- 3.show the result and automatic reply the asker 
